@@ -1,2 +1,9 @@
-# DSA-basics-
-Basic Data Structures and Algorithms implemented in Java for learning and practice. A collection of beginner-friendly DSA concepts and Java solutions. Java-based Data Structures and Algorithms practice repository. Learning DSA with Java: arrays, strings, linked lists, sorting, searching, and more. My journey of mastering DSAs using Java.
+This repository contains my Data Structures and Algorithms (DSA) learning journey in Java. It includes implementations of fundamental data structures, searching and sorting algorithms, recursion, linked lists, stacks, queues, trees, graphs, and problem-solving exercises. The goal is to strengthen coding skills and prepare for technical interviews and competitive programming.
+
+Topics/Tags
+
+java dsa data-structures algorithms coding-interview problem-solving java-programming leetcode beginner-friendly
+
+A good GitHub description would be:
+
+🚀 Data Structures and Algorithms in Java | Beginner to Advanced | Interview Preparation & Problem Solving
